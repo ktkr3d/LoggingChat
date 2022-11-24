@@ -1,0 +1,6 @@
+## Interface: 100002
+## Title: LoggingChat
+## Notes: Logging Chat
+## Version: 1.0
+
+LoggingChat.lua
