@@ -6,7 +6,7 @@ LoggingChat is a chat addon.
 
 ## Install
 
-1. Install oUF_MyLayout using the [WowUp](https://wowup.io/guide/get-addons/overview) app.
+1. Install LoggingChat using the [WowUp](https://wowup.io/guide/get-addons/overview) app.
 
   ```text
   https://github.com/ktkr3d/LoggingChat
