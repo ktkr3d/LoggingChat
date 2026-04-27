@@ -1,6 +1,8 @@
-## Interface: 100002
+## Interface: 120000, 120005
 ## Title: LoggingChat
-## Notes: Logging Chat
-## Version: 1.0
-
+## Author: ktkr3d
+## Version: 0.1.0
+## Notes: LoggingChat is a chat addon.
+## Category: Chat
+## IconTexture: Interface\Icons\Achievement_Reputation_Kirintor
 LoggingChat.lua
